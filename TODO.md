@@ -1,0 +1,5 @@
+- [x] Remove inline styles from about.html and assign CSS classes
+- [x] Update syle.css to style welcome section and cards without fixed heights
+- [x] Reduce font sizes in cards and welcome section
+- [x] Make scrollbar thinner
+- [x] Test the page for full content visibility and improved aesthetics
